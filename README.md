@@ -1,7 +1,7 @@
 # ALULA 
 
 - Content
-### This project is represet responsive design of Front-end side of a project about alula city in north-western Saudi Arabia. 
+### This project is represent responsive design of Front-end side of a project about alula city in north-western Saudi Arabia. 
 ### was build using : 
 1- Html
 2- CSS
